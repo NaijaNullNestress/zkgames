@@ -4,4 +4,5 @@ program zkgames.aleo {
         let c: u32 = a + b;
         return c;
     }
+    
 }
